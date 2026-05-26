@@ -21,6 +21,14 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+     
+        - 가장 중요하게 생각했던 부분은 SFP -> RM -> PPO 이 순서가 중요하다고 생각했습니다
+        - <img width="500" height="512" alt="image" src="https://github.com/user-attachments/assets/ea1c5a27-b2c8-41c5-98e8-85a0afa8d2e1" />
+        - <img width="641" height="443" alt="image" src="https://github.com/user-attachments/assets/55981ef3-71f2-4e32-bca7-2973192f1927" />
+        - <img width="630" height="386" alt="image" src="https://github.com/user-attachments/assets/34595506-f86e-4014-b222-33ebd5fa315e" />
+
+
+
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
